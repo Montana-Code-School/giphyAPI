@@ -1,0 +1,19 @@
+{
+  "name": "giphyapi",
+  "version": "1.0.0",
+  "description": "<img src=\"http://montanacodeschool.com/wp-content/uploads/2016/08/MCS_LOGO_v1-1.png\" width=\"200\" align=\"right\"/>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OniZedo/giphyAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OniZedo/giphyAPI/issues"
+  },
+  "homepage": "https://github.com/OniZedo/giphyAPI#readme"
+}
